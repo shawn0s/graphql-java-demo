@@ -1,0 +1,5 @@
+
+graphql.playground:
+  enabled: true
+  cdn:
+    enabled: false
